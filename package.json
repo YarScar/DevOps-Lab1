@@ -1,0 +1,25 @@
+{
+  "name": "devops-lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YarScar/DevOps-Lab1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YarScar/DevOps-Lab1/issues"
+  },
+  "homepage": "https://github.com/YarScar/DevOps-Lab1#readme",
+  "dependencies": {
+    "@prisma/client": "^7.4.1",
+    "express": "^5.2.1",
+    "prisma": "^7.4.1"
+  }
+}
